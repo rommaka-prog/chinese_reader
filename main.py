@@ -3,7 +3,7 @@
 
 from gtts import gTTS
 
-texto = "qi"
+texto = "wújí"
 lingua = "zh"
 tts = gTTS(texto, lang=lingua)
-tts.save("qi.mp3")
+tts.save("wuji.mp3")
